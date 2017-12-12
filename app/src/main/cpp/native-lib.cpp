@@ -1,5 +1,6 @@
 #include <jni.h>
 #include <string>
+#include <string.h>
 #include "native-lib.h"
 
 const char *PATH = "/data/data/com.example.yzy.ndkprocessdefend/my.socket";
