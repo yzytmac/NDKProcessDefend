@@ -1,2 +1,4 @@
 # NDKProcessDefend
-NDK层实现双进程守护
+NDK层实现双进程守护  
+未完待续。。。  
+
