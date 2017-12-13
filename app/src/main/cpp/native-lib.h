@@ -15,6 +15,8 @@
 #include <errno.h>
 #include <stdlib.h>
 #include <linux/signal.h>
+#include <jni.h>
+#include <string.h>
 #define LOG_TAG "yzy_jni"
 #define LOGE(...) __android_log_print(ANDROID_LOG_ERROR, LOG_TAG, __VA_ARGS__)
 void child_do_work();
